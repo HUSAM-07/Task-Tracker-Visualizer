@@ -1,2 +1,2 @@
 [mongodb]
-uri = "mongodb+srv://unihusam:<RedApple>@cluster0.blgmdws.mongodb.net/?retryWrites=true&w=majority"
+uri = "mongodb+srv://unihusam:RedApple@cluster0.blgmdws.mongodb.net/?retryWrites=true&w=majority"
