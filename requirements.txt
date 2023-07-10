@@ -13,3 +13,5 @@ pandas
 networkx
 matplotlib
 mplcursors
+protobuf==3.20.3
+

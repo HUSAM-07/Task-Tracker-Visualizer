@@ -1,2 +1,2 @@
 [mongodb]
-uri = "your-mongodb-connection-string"
+uri = "mongodb+srv://unihusam:<RedApple>@cluster0.blgmdws.mongodb.net/?retryWrites=true&w=majority"
