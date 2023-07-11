@@ -10,7 +10,7 @@ def run_app():
     st.set_page_config(page_title="Task Management", layout="wide")
     st.sidebar.image("https://raw.githubusercontent.com/abhishekaryan23/Task_Master/master/logo.png")
     st.title("Task Master")
-
+#We're creating a new session here
     st.session_state = get_state()
 
     # Initialize the new session state variable
